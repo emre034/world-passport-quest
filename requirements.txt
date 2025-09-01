@@ -1,0 +1,3 @@
+# World Passport Quest - Requirements
+# Python 3.8+ required (uses typing features)
+# No external dependencies - uses only Python standard library
