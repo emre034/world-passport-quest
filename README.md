@@ -24,7 +24,7 @@ In World Passport Quest, you start as a citizen of a randomly selected island na
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/world-passport-quest.git
+git clone https://github.com/emre034/world-passport-quest.git
 cd world-passport-quest
 ```
 
