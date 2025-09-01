@@ -19,6 +19,7 @@ In World Passport Quest, you start as a citizen of a randomly selected island na
 ### Prerequisites
 
 - Python 3.8 or higher
+- No external dependencies required (uses only Python standard library)
 
 ### Installation
 
@@ -28,10 +29,26 @@ git clone https://github.com/emre034/world-passport-quest.git
 cd world-passport-quest
 ```
 
-2. Run the game:
+2. Verify Python installation:
 ```bash
+python3 --version  # Should be 3.8 or higher
+# Or try:
+python --version
+```
+
+3. Verify all required files are present:
+```bash
+ls *.py  # Should show: game.py player.py country.py
+```
+
+4. Run the game:
+```bash
+python3 game.py
+# Or if python3 is not available:
 python game.py
 ```
+
+**Note:** The game starts immediately when you run it. Type `help` to see available commands.
 
 ## 🎯 How to Play
 
